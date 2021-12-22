@@ -2,4 +2,6 @@ This is the first line in my repository (V1)
 
 This is the second line in my repo (V2)
 
-This is the third line iin my repo (V3)
+This is the third line in my repo (V3)
+
+This is the new line in my repo (V4)
